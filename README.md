@@ -14,8 +14,13 @@
 ## Read Only
 ### Cloning
 
-  `giti init` <br>
-  `git clone https://github.com/YashvanthD/Voice-Emotions-Data.git`
+    giti init
+    
+ <br>
+    
+    git clone https://github.com/YashvanthD/Voice-Emotions-Data.git
+    
+    
 
 ## Edit Purpose
 ### Pushing / commit changes
